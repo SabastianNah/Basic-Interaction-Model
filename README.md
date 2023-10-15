@@ -1,5 +1,9 @@
 # Basic-Interaction-Model
 
+An interaction model in general is a structured system that has players engage in the game world via the systems that the game sets in place.
+The engagement happens when a player provides input that the game accepts (i.e. jumping, pressing levers, etc.) that then results in an objective
+being accomplished or the game world being changed.
+
 1. Written description of the interaction model, including the objective of the interaction
 
     There are two interaction models that are implemented in the game that was made in Unity. The first interaction model is 
